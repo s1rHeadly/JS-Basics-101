@@ -1,7 +1,9 @@
 /**
  * 1.check each field value exists
  * 2. validate each field type
- * 3. submit form ONLY when all fields are validated
+ * 3. use events for real time validation (separate function im thinking)
+ * 4. add the form the a form submission function
+ * 5. pass the sumbission function into an init function where everything runs in one block for the application
  *
  *
  */
